@@ -18,15 +18,19 @@ My current focus is on **AI-augmented QA practices** — integrating LLMs, RAG s
 
 ## 🚀 Featured Open Source Projects
 
-| Project | Description | Tech Stack |
-|----------|--------------|------------|
-| 🔹 [**selenium-e2e-bdd-framework-starter**](https://github.com/shanaka-qe/selenium-e2e-bdd-framework-starter) | Enterprise-grade Selenium automation framework for multi-app E2E testing. | Java |
-| 🔹 [**playwright-e2e-bdd-framework-starter**](https://github.com/shanaka-qe/playwright-e2e-bdd-framework-starter) | Production-ready Playwright BDD framework for parallel E2E automation. | TypeScript |
-| 🔹 [**jmeter-performance-test-framework**](https://github.com/shanaka-qe/jmeter-performance-test-framework) | Codefirst Production-grade Jmeter performance testing framework. | Groovy, Python, Shell |
-| 🔹 [**cypress-e2e-bdd-framework-starter**](https://github.com/shanaka-qe/cypress-e2e-bdd-framework-starter) | Comprehensive Cypress BDD framework starter for modern web testing. | TypeScript |
-| 🔹 [**local-chat-agent-with-ui**](https://github.com/shanaka-qe/local-chat-agent-with-ui) | Multimodal local chatbot using Ollama + Chainlit-like UI with dynamic model switching. | Python, FastAPI |
-| 🔹 [**local-qa-voice-ai-agent**](https://github.com/shanaka-qe/local-qa-voice-ai-agent) | Voice-based AI QA agent for creating and reviewing test cases, powered by LLMs and FastRTC. | Python |
-| 🔹 [**rag-with-local-llm**](https://github.com/shanaka-qe/rag-with-local-llm) | Local RAG system with LangChain + ChromaDB. No API keys, fully private. | Python |
+| Project                                                                                                                 | Description                                                                                                   | Tech Stack            |
+| ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------------------- |
+| 🔹 [**selenium-e2e-bdd-framework-starter**](https://github.com/shanaka-qe/selenium-e2e-bdd-framework-starter)           | Enterprise-grade Selenium automation framework for multi-app E2E testing.                                     | Java                  |
+| 🔹 [**playwright-e2e-bdd-framework-starter**](https://github.com/shanaka-qe/playwright-e2e-bdd-framework-starter)       | Production-ready Playwright BDD framework for parallel E2E automation.                                        | TypeScript            |
+| 🔹 [**jmeter-performance-test-framework**](https://github.com/shanaka-qe/jmeter-performance-test-framework)             | Code-first production-grade JMeter performance testing framework.                                             | Groovy, Python, Shell |
+| 🔹 [**cypress-e2e-bdd-framework-starter**](https://github.com/shanaka-qe/cypress-e2e-bdd-framework-starter)             | Comprehensive Cypress BDD framework starter for modern web testing.                                           | TypeScript            |
+| 🔹 [**k6-performance-test-framework**](https://github.com/shanaka-qe/k6-performance-test-framework)                     | Enterprise-grade, code-first k6 performance testing framework.                                                | TypeScript            |
+| 🔹 [**postman-newman-api-automation-framework**](https://github.com/shanaka-qe/postman-newman-api-automation-framework) | Enterprise-grade API automation framework using Postman + Newman with complete CI/CD integration via Jenkins. | JavaScript            |
+| 🔹 [**local-chat-agent-with-ui**](https://github.com/shanaka-qe/local-chat-agent-with-ui)                               | Multimodal local chatbot using Ollama + Chainlit-like UI with dynamic model switching.                        | Python, FastAPI       |
+| 🔹 [**local-qa-voice-ai-agent**](https://github.com/shanaka-qe/local-qa-voice-ai-agent)                                 | Voice-based AI QA agent for creating and reviewing test cases, powered by LLMs and FastRTC.                   | Python                |
+| 🔹 [**rag-with-local-llm**](https://github.com/shanaka-qe/rag-with-local-llm)                                           | Local RAG system with LangChain + ChromaDB. No API keys, fully private.                                       | Python                |
+
+
 
 ---
 
