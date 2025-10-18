@@ -7,12 +7,24 @@ My current focus is on **AI-augmented QA practices** — integrating LLMs, RAG s
 ---
 
 ## 🧠 What I Do
-- **Test Automation Architecture:** Playwright, Selenium, Appium, Cypress, RestAssured  
-- **Performance Testing:** JMeter, K6, LoadRunner  
-- **AI-Augmented QA:** RAGAS, DeepEval, LangChain, LlamaIndex, Claude, GPT, Bedrock  
-- **Cloud & DevOps:** AWS, Docker, Jenkins, GitHub Actions, Moon Grid, CI/CD automation  
-- **Programming:** Java, TypeScript, Python, C#, Groovy  
-- **Collaboration:** Mentoring distributed QA teams, embedding AI in QA practices  
+ - **Test Automation Architecture:** Playwright, Selenium, Appium, Cypress, RestAssured  
+Design and maintain enterprise-grade E2E BDD frameworks for scalable web and mobile automation.
+
+ - **Performance Testing:** JMeter, K6, LoadRunner  
+Develop and optimize performance testing frameworks for multi-environment and CI/CD-integrated load testing.
+
+ - **AI-Augmented QA:** RAGAS, DeepEval, LangChain, LlamaIndex, Claude, GPT, Bedrock  
+Build intelligent QA assistants, local RAG systems, and voice-based AI agents to enhance test coverage and analysis.
+
+ - **Cloud & DevOps:** AWS, Docker, Jenkins, GitHub Actions, Moon Grid, CI/CD automation  
+Integrate testing pipelines into cloud-native architectures with full automation and parallel execution support.
+
+ - **Programming:** Java, TypeScript, Python, C#, Groovy  
+Deliver full-stack automation and backend solutions across multiple programming environments.
+
+ - **Collaboration:** Mentoring distributed QA teams, embedding AI in QA practices  
+Lead and guide QA teams to adopt modern frameworks, improve test efficiency, and implement AI-driven quality strategies.
+
 
 ---
 
