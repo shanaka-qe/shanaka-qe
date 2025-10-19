@@ -39,8 +39,9 @@ Lead and guide QA teams to adopt modern frameworks, improve test efficiency, and
 | 🔹 [**k6-performance-test-framework**](https://github.com/shanaka-qe/k6-performance-test-framework)                     | Enterprise-grade, code-first k6 performance testing framework.                                                | TypeScript            |
 | 🔹 [**postman-newman-api-automation-framework**](https://github.com/shanaka-qe/postman-newman-api-automation-framework) | Enterprise-grade API automation framework using Postman + Newman with complete CI/CD integration via Jenkins. | JavaScript            |
 | 🔹 [**local-chat-agent-with-ui**](https://github.com/shanaka-qe/local-chat-agent-with-ui)                               | Multimodal local chatbot using Ollama + Chainlit-like UI with dynamic model switching.                        | Python, FastAPI       |
-| 🔹 [**local-qa-voice-ai-agent**](https://github.com/shanaka-qe/local-qa-voice-ai-agent)                                 | Voice-based AI QA agent for creating and reviewing test cases, powered by LLMs and FastRTC.                   | Python                |
-| 🔹 [**rag-with-local-llm**](https://github.com/shanaka-qe/rag-with-local-llm)                                           | Local RAG system with LangChain + ChromaDB. No API keys, fully private.                                       | Python                |
+| 🔹 [**lightrag-with-ui-local-setup**](https://github.com/shanaka-qe/lightrag-with-ui-local-setup)                       | LightRAG implementation with knowledge graph and UI based chat system in a local computer.                    | Python, LightRAG      |
+| 🔹 [**local-qa-voice-ai-agent**](https://github.com/shanaka-qe/local-qa-voice-ai-agent)                                 | Voice-based AI QA agent for creating and reviewing test cases, powered by LLMs and FastRTC.                   | Python, FastRTC       |
+| 🔹 [**rag-with-local-llm**](https://github.com/shanaka-qe/rag-with-local-llm)                                           | Local RAG system with LangChain + ChromaDB. No API keys, fully private.                                       | Python, LangChain     |
 
 
 
